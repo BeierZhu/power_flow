@@ -44,12 +44,14 @@ results found in folder experiement_log
 #### experiment 3.1
 	./accuracy_test.sh
 #### experiment 3.2
-	./iteration_test.sh
+	./iteration_test.sh+case_number
+exemple:  
+	./iteration 14
 #### experiment 3.3.1
-	./XB_count_r_test.sh
+	./XB_count_r_test.sh+case_number
 #### experiment 3.3.2
-	./XB_count_ground_test.sh
+	./XB_count_ground_test.sh+case_number
 #### experiemnt 3.4
-	./XB_BX_comparison.sh
-	./XB_BX_comparison2.sh
+	./XB_BX_comparison.sh+case_number
+	./XB_BX_comparison2.sh+case_number
 	
