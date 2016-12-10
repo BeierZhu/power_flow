@@ -1,0 +1,62 @@
+Method: Constant Jacobian
+case number: 39
+converge at iteration: 131
+time elapsed: 0.925467 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+Method: XB
+case number: 39
+converge at iteration: 8
+time elapsed: 0.061745 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+Method: BX
+case number: 39
+converge at iteration: 9
+time elapsed: 0.067158 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+Method: BB
+case number: 39
+converge at iteration: 19
+time elapsed: 0.135698 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+Method: XX
+case number: 39
+converge at iteration: 14
+time elapsed: 0.104096 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+-----------------------------------------------------------------
+Method: Constant Jacobian
+case number: 57
+converge at iteration: 10
+time elapsed: 0.241114 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+Method: XB
+case number: 57
+converge at iteration: 8
+time elapsed: 0.139988 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+Method: BX
+case number: 57
+converge at iteration: 8
+time elapsed: 0.136603 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+Method: BB
+case number: 57
+converge at iteration: 1001
+time elapsed: 18.215808 s
+difference max V : nan
+differecne max theta: nan
+Method: XX
+case number: 57
+converge at iteration: 20
+time elapsed: 0.344081 s
+difference max V : 0.000000
+differecne max theta: 0.000000
+-----------------------------------------------------------------

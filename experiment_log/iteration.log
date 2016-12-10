@@ -1,0 +1,124 @@
+Method: Constant Jacobian
+case number: 14
+converge
+converge at iteration: 8
+time elapsed: 0.009080 s
+Method: BB
+case number: 14
+converge
+converge at iteration: 36
+time elapsed: 0.036675 s
+Method: XB
+case number: 14
+converge
+converge at iteration: 7
+time elapsed: 0.007089 s
+Method: BX
+case number: 14
+converge
+converge at iteration: 9
+time elapsed: 0.010882 s
+Method: XX
+case number: 14
+converge
+converge at iteration: 13
+time elapsed: 0.013286 s
+-----------------------------------------------------------------
+Method: Constant Jacobian
+case number: 39
+converge
+converge at iteration: 131
+time elapsed: 1.017603 s
+Method: BB
+case number: 39
+converge
+converge at iteration: 19
+time elapsed: 0.141874 s
+Method: XB
+case number: 39
+converge
+converge at iteration: 8
+time elapsed: 0.061109 s
+Method: BX
+case number: 39
+converge
+converge at iteration: 9
+time elapsed: 0.067341 s
+Method: XX
+case number: 39
+converge
+converge at iteration: 14
+time elapsed: 0.106729 s
+-----------------------------------------------------------------
+Method: Constant Jacobian
+case number: 57
+converge
+converge at iteration: 10
+time elapsed: 0.172313 s
+Method: BB
+case number: 57
+not converge
+Method: XB
+case number: 57
+converge
+converge at iteration: 8
+time elapsed: 0.135703 s
+Method: BX
+case number: 57
+converge
+converge at iteration: 8
+time elapsed: 0.138849 s
+Method: XX
+case number: 57
+converge
+converge at iteration: 20
+time elapsed: 0.336292 s
+-----------------------------------------------------------------
+Method: Constant Jacobian
+case number: 118
+not converge
+Method: BB
+case number: 118
+converge
+converge at iteration: 10
+time elapsed: 0.580857 s
+Method: XB
+case number: 118
+converge
+converge at iteration: 9
+time elapsed: 0.522363 s
+Method: BX
+case number: 118
+converge
+converge at iteration: 7
+time elapsed: 0.415349 s
+Method: XX
+case number: 118
+converge
+converge at iteration: 9
+time elapsed: 0.518643 s
+-----------------------------------------------------------------
+Method: Constant Jacobian
+case number: 2383
+not converge
+Method: BB
+case number: 2383
+converge
+converge at iteration: 138
+time elapsed: 2088.415025 s
+Method: XB
+case number: 2383
+converge
+converge at iteration: 12
+time elapsed: 185.363306 s
+Method: BX
+case number: 2383
+converge
+converge at iteration: 15
+time elapsed: 233.337175 s
+Method: XX
+case number: 2383
+converge
+converge at iteration: 16
+time elapsed: 242.970785 s
+-----------------------------------------------------------------

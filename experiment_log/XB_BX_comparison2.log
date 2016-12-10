@@ -1,0 +1,196 @@
+Method: XB
+case number: 118
+r scale: 1
+converge
+converge at iteration: 9
+time elapsed: 0.517268 s
+Method: XB
+case number: 118
+r scale: 0.75
+converge
+converge at iteration: 11
+time elapsed: 0.634868 s
+Method: XB
+case number: 118
+r scale: 0.5
+converge
+converge at iteration: 17
+time elapsed: 0.991519 s
+Method: XB
+case number: 118
+r scale: 0.25
+converge
+converge at iteration: 45
+time elapsed: 2.773239 s
+Method: BX
+case number: 118
+r scale: 1
+converge
+converge at iteration: 7
+time elapsed: 0.400032 s
+Method: BX
+case number: 118
+r scale: 0.75
+converge
+converge at iteration: 8
+time elapsed: 0.459734 s
+Method: BX
+case number: 118
+r scale: 0.5
+converge
+converge at iteration: 9
+time elapsed: 0.511777 s
+Method: BX
+case number: 118
+r scale: 0.25
+converge
+converge at iteration: 11
+time elapsed: 0.627096 s
+-----------------------------------------------------------------
+Method: XB
+case number: 57
+r scale: 1
+converge
+converge at iteration: 8
+time elapsed: 0.133215 s
+Method: XB
+case number: 57
+r scale: 0.75
+converge
+converge at iteration: 9
+time elapsed: 0.150768 s
+Method: XB
+case number: 57
+r scale: 0.5
+converge
+converge at iteration: 13
+time elapsed: 0.223636 s
+Method: XB
+case number: 57
+r scale: 0.25
+converge
+converge at iteration: 30
+time elapsed: 0.519131 s
+Method: BX
+case number: 57
+r scale: 1
+converge
+converge at iteration: 8
+time elapsed: 0.142953 s
+Method: BX
+case number: 57
+r scale: 0.75
+converge
+converge at iteration: 9
+time elapsed: 0.163071 s
+Method: BX
+case number: 57
+r scale: 0.5
+converge
+converge at iteration: 11
+time elapsed: 0.211603 s
+Method: BX
+case number: 57
+r scale: 0.25
+converge
+converge at iteration: 19
+time elapsed: 0.334835 s
+-----------------------------------------------------------------
+Method: XB
+case number: 39
+r scale: 1
+converge
+converge at iteration: 8
+time elapsed: 0.047963 s
+Method: XB
+case number: 39
+r scale: 0.75
+converge
+converge at iteration: 9
+time elapsed: 0.067578 s
+Method: XB
+case number: 39
+r scale: 0.5
+converge
+converge at iteration: 14
+time elapsed: 0.104911 s
+Method: XB
+case number: 39
+r scale: 0.25
+converge
+converge at iteration: 32
+time elapsed: 0.241008 s
+Method: BX
+case number: 39
+r scale: 1
+converge
+converge at iteration: 9
+time elapsed: 0.067477 s
+Method: BX
+case number: 39
+r scale: 0.75
+converge
+converge at iteration: 10
+time elapsed: 0.077909 s
+Method: BX
+case number: 39
+r scale: 0.5
+converge
+converge at iteration: 11
+time elapsed: 0.084979 s
+Method: BX
+case number: 39
+r scale: 0.25
+converge
+converge at iteration: 15
+time elapsed: 0.117679 s
+-----------------------------------------------------------------
+Method: XB
+case number: 14
+r scale: 1
+converge
+converge at iteration: 7
+time elapsed: 0.005312 s
+Method: XB
+case number: 14
+r scale: 0.75
+converge
+converge at iteration: 9
+time elapsed: 0.011054 s
+Method: XB
+case number: 14
+r scale: 0.5
+converge
+converge at iteration: 12
+time elapsed: 0.013497 s
+Method: XB
+case number: 14
+r scale: 0.25
+converge
+converge at iteration: 30
+time elapsed: 0.031345 s
+Method: BX
+case number: 14
+r scale: 1
+converge
+converge at iteration: 9
+time elapsed: 0.012597 s
+Method: BX
+case number: 14
+r scale: 0.75
+converge
+converge at iteration: 10
+time elapsed: 0.012104 s
+Method: BX
+case number: 14
+r scale: 0.5
+converge
+converge at iteration: 12
+time elapsed: 0.012233 s
+Method: BX
+case number: 14
+r scale: 0.25
+converge
+converge at iteration: 14
+time elapsed: 0.019359 s
+-----------------------------------------------------------------

@@ -1,0 +1,43 @@
+-----------------------------------------------------------------
+Method: XB
+case number: 14
+converge
+converge at iteration: 7
+time elapsed: 0.008125 s
+Method: XB_ground
+case number: 14
+converge
+converge at iteration: 8
+time elapsed: 0.009920 s
+-----------------------------------------------------------------
+Method: XB
+case number: 39
+converge
+converge at iteration: 8
+time elapsed: 0.061684 s
+Method: XB_ground
+case number: 39
+converge
+converge at iteration: 122
+time elapsed: 0.905868 s
+-----------------------------------------------------------------
+Method: XB
+case number: 57
+converge
+converge at iteration: 8
+time elapsed: 0.138421 s
+Method: XB_ground
+case number: 57
+converge
+converge at iteration: 8
+time elapsed: 0.149573 s
+-----------------------------------------------------------------
+Method: XB
+case number: 118
+converge
+converge at iteration: 9
+time elapsed: 0.532005 s
+Method: XB_ground
+case number: 118
+not converge
+-----------------------------------------------------------------
